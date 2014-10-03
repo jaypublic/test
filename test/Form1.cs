@@ -20,6 +20,7 @@ namespace test
         private void simpleButton1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("aaa");
+            MessageBox.Show("bbb");
         }
     }
 }
