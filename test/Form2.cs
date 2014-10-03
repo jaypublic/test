@@ -16,8 +16,12 @@ namespace test
         {
             InitializeComponent();
             bbb();
+            aaa();
         }
         public void bbb()
+        {
+        }
+        public void aaa()
         {
         }
     }
