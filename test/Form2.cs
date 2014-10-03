@@ -15,6 +15,10 @@ namespace test
         public Form2()
         {
             InitializeComponent();
+            aaa();
+        }
+        public void aaa()
+        {
         }
     }
 }
