@@ -20,6 +20,7 @@ namespace test
         }
         public void bbb()
         {
+            MessageBox.Show("bbb");
         }
         public void aaa()
         {
