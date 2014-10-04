@@ -24,6 +24,7 @@ namespace test
         }
         public void aaa()
         {
+            MessageBox.Show("aaa");
         }
     }
 }
